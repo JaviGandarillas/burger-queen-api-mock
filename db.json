@@ -102,6 +102,18 @@
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "admin",
       "id": 2
+    },
+    {
+      "email": "pepa.hopper@systers.xyz",
+      "password": "$2a$10$BjvmFwLYnsQ7tN901OnOCuyyNo5OElL3KrGwgCEaWzT6lHuZ9vj6K",
+      "role": "chef",
+      "id": 3
+    },
+    {
+      "email": "ana.hopper@systers.xyz",
+      "password": "$2a$10$vURX5drj9rYtxZdNmkUkeuq1o8tUMpyFtIeANh.2jk/3kiBjy8/ie",
+      "role": "mesero",
+      "id": 4
     }
   ]
 }
